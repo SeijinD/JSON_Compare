@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="first_json">1st JSON</string>
+    <string name="second_json">2nd JSON</string>
+    <string name="result">Result:</string>
+    <string name="compare">Compare</string>
+
+</resources>
